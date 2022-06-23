@@ -1,4 +1,4 @@
-print("Olá! Seja bem vinde á página de cadastro da Oliveira Trade.")
+print("Olá! Seja bem vinde a Oliveira Trade.")
 print("Primeiro, faça seu cadastro.")
 
 nomeUser = input("Digite o seu nome completo: ")
